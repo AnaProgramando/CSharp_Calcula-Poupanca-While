@@ -1,4 +1,4 @@
-# CSharp - Calcula Poupanca
+# CSharp - Calcula Poupança com Laço de Repetição While
 
 Olá, seja muito bem vinda(o)!
 
